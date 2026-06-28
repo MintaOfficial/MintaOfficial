@@ -21,4 +21,3 @@ HI! I'm MintaOffcial(MintaOfficial) I'm interested in things related to Linux, W
 ## Hobbies
 - **Minecraft:** Play And Moding
 - **Vs Code:** Building Website And Update
-
